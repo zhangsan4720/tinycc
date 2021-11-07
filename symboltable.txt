@@ -1,0 +1,12 @@
+nj1	nj2	nj3	nj4	nj6	nj8
+n	n	sj0	sj0	sj0	sj0
+sj0	n	nj3	sj0	sj0	sj0
+sj0	n	sj0	sj0	sj0	sj0
+sj0	sj0	sj0	nj5	sj0	sj0
+sj0	sj0	sj0	sj0	sj0	sj0
+sj0	sj0	sj0	sj0	nj7	sj0
+sj0	sj0	sj0	sj0	sj0	sj0
+sj0	sj0	sj0	sj0	sj0	n
+
+
+
